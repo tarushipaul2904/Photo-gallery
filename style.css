@@ -1,0 +1,21 @@
+
+body{
+    text-align: center;
+    background-image: url(pastel.jpg);
+    font-family: cursive;
+}
+#singapore{
+    height:50%;
+width: 100%;        
+}
+img{
+    height: 20%;
+    width: 20%;
+    margin-right: 2%;
+    margin-top: 2%;
+    border: solid;
+    border-width: 2px;
+}
+img:hover
+    transform: scale(2.1);
+}
